@@ -6,7 +6,7 @@
 ```yaml
 name:       Marc Baumgartner
 location:   Switzerland 🇨🇭
-role:       System Engineer & Developer
+role:       ICT Consultant & System Engineer
 focus:      Workplace Infrastructure · Automation · Microsoft Ecosystem
 currently:  Building enterprise workplace infrastructure @ Swisscom
 ```
