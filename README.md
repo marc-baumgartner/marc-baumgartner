@@ -17,9 +17,7 @@ currently:  Building enterprise workplace infrastructure @ Swisscom
 
 - 🏗️ I design and build **custom workplace infrastructures** → from scratch or migration → on-prem, hybrid & cloud
 - 🔧 I develop **REST APIs, PowerShell modules & custom Windows apps (WinUI 3)** → when off-the-shelf doesn't cut it and a tailored solution is needed
-- 🛡️ Security is not an afterthought: **JWT auth**, role-based access control, hardened services & interfaces throughout
 - ☁️ Working daily with **Microsoft 365, Azure, Entra ID, Intune, ConfigMgr & Active Directory**
-- 🧩 I take fragmented systems and turn them into clean, maintainable solutions
 
 ---
 
