@@ -39,8 +39,15 @@ currently:  Building enterprise workplace infrastructure @ Swisscom
   <img src="https://img.shields.io/badge/Entra_ID-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Active_Directory-%230078D4.svg?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/ConfigMgr_SCCM-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Co--Management-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_365-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Graph_API-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Group_Policy_GPO-%230078D4.svg?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/BitLocker-%230078D4.svg?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Update_for_Business-%230078D4.svg?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/OSD_%26_Task_Sequences-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/App_Packaging-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
 #### Infrastructure & Tools
@@ -49,6 +56,8 @@ currently:  Building enterprise workplace infrastructure @ Swisscom
   <img src="https://img.shields.io/badge/Windows_11-%230078D4.svg?style=for-the-badge&logo=windows11&logoColor=white" />
   <img src="https://img.shields.io/badge/IIS-%230078D4.svg?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Hyper--V-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSRS-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
